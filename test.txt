@@ -1,5 +1,9 @@
 Dit is test of het bij elkaar wordt gevoegd als het merged.....
 
+<<<<<<< HEAD
 
 
-dit is tekst 2
+dit is tekst 2dit is tekst 2
+=======
+eerste stukje tekst
+>>>>>>> tekst1
